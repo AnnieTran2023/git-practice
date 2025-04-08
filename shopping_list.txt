@@ -5,3 +5,4 @@ chicken
 corns
 peanuts
 broccoli
+apples
