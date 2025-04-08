@@ -1,0 +1,7 @@
+eggs
+fish
+milk
+chicken
+corns
+peanuts
+broccoli
